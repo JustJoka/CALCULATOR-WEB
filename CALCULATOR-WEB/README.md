@@ -57,7 +57,7 @@ Copiar código
 ## ▶️ Como executar o projeto
 
 1. Clone o repositório:
-```bash
+bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 Abra o arquivo index.html no navegador.
 
@@ -65,9 +65,12 @@ Abra o arquivo index.html no navegador.
 Este projeto foi desenvolvido com o objetivo de praticar front-end básico, manipulação do DOM, eventos em JavaScript e criação de interfaces modernas, sendo ideal para portfólio e freelancing iniciante.
 
 📷 Preview
-(adicione aqui uma imagem ou GIF do projeto)
+![Preview](https://github.com/JustJoka/CALCULATOR-WEB/blob/main/CALCULATOR-WEB/images/Screenshot%202025-12-22%20212257.png?raw=true)
+![Preview](https://github.com/JustJoka/CALCULATOR-WEB/blob/main/CALCULATOR-WEB/images/Screenshot%202025-12-22%20212308.png?raw=true)
+![Preview](https://github.com/JustJoka/CALCULATOR-WEB/blob/main/CALCULATOR-WEB/images/Screenshot%202025-12-22%20212314.png?raw=true)
 
 
 👤 Autor
 Desenvolvido por Joka Justt
+
 📌 Projeto para portfólio e estudos
